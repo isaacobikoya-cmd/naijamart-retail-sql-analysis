@@ -217,20 +217,19 @@ The high proportion of repeat customers suggests that retention is an important 
 
 ### Overall Business KPIs
 
-![KPI Analysis](screenshots/kpi-analysis.png)
+![KPI Analysis](kpi-analysis.png)
 
 ### Category Performance
 
-![Category Performance](screenshots/category-performance.png)
+![Category Performance](category-performance.png)
 
 ### Monthly Revenue Performance
 
-![Monthly Revenue](screenshots/monthly-revenue.png)
+![Monthly Revenue](monthly-revenue.png)
 
 ### Customer Retention
 
-![Customer Retention](screenshots/customer-retention.png)
-
+![Customer Retention](customer-retention.png)
 ---
 
 ## 📁 Project Structure
