@@ -218,6 +218,10 @@ The high proportion of repeat customers suggests that retention is an important 
 
 ![NaijaMart Retail Pulse Dashboard](naijamart-retail-dashboard.png)
 
+### Power BI Data Model
+
+![NaijaMart Power BI Data Model](powerbi-data-model.png)
+
 ### Overall Business KPIs
 
 ![KPI Analysis](kpi-analysis.png)
