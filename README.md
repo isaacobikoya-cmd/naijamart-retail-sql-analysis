@@ -59,8 +59,7 @@ Products
 ---
 
 ## 🛠️ Tools & Technologies
-
-* **SQLite** — Database management and SQL analysis
+* **Power BI** — Data modelling, DAX calculations and interactive dashboard development
 * **SQL** — Data querying, transformation and analysis
 * **GitHub** — Project version control and portfolio presentation
 
@@ -214,6 +213,10 @@ The high proportion of repeat customers suggests that retention is an important 
 ---
 
 ## 🖼️ Project Screenshots
+
+### Power BI Dashboard
+
+![NaijaMart Retail Pulse Dashboard](naijamart-retail-dashboard.png)
 
 ### Overall Business KPIs
 
